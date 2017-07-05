@@ -23,6 +23,7 @@ gem 'carrierwave'
 gem 'bootstrap-sass'
 gem 'jquery-rails'
 gem 'font-awesome-rails'
+gem 'mini_magick'
 
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '~> 4.2'
